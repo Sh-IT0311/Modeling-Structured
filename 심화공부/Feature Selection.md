@@ -17,7 +17,7 @@
         * 도메인 지식을 사용하여 데이터에서 feature를 변형 및 생성
         * feature를 어떻게 유용하게 만들 것인가의 문제
     * feature extraction
-        * 차원축소 등 새로운 중요 feature를 추출
+        * 차원축소를 하면서 정보손실을 최소화하는 중요한 feature를 추출
     * feature selection
         * 기존 feature set에서 원하는 feature subset을 선택함
         * 데이터에서 유용한 feature를 어떻게 선택할 것인가의 문제
